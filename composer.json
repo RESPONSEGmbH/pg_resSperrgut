@@ -1,0 +1,7 @@
+{
+    "name": "response/ressperrgut",
+    "description": "Module for displaying bulky goods information by Articles",
+    "type": "oxideshop-module",
+    "homepage": "https://www.response-gmbh.de",
+    "version": "1.0.0"
+}
